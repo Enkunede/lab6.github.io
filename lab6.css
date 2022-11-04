@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+header{
+    background-color: #363434;
+    width: 100%;
+    color: #D8D3D2;
+    font-size: 12px;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+}
+div2 img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width:438;
+    height: 526;
+    padding-top: 70px;
+}
+.ipadtext{
+    position: absolute;
+    top: 43%;
+    left: 55%;
+    text-align: center;
+}
+.ipad{
+    font-size: 30px;
+}
+.lovable{
+    font-size: 27px;
+}
+
+
+.link1{
+    font-size: 18px;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
+.div3 {
+    background-color: black;
+    width: 100%;
+}
+.div3 img{
+    display: block;
+    margin-left: auto;
+    width: 1080;
+    height: 574;
+}
+.ipadtext2{
+    position: absolute;
+    top: 143%;
+    left: 14%;
+    text-align: center;
+    color: white;
+}
+.ipad2{
+    font-size: 30px;
+}
+.lovable2{
+    font-size: 27px;
+}
+.lovable2 img{
+    width: 35;
+    height: 35;
+}
+.div4 img{
+    width: 100%;
+    height: 574;
+}
+.ipadtext3{
+    position: absolute;
+    top: 210%;
+    left: 35%;
+    text-align: center;
+    color: white;
+}
+.ipad3{
+    font-size: 30px;
+}
+.lovable3{
+    font-size: 27px;
+}
+.gallery{
+    margin: 6px;
+  float: left;
+}
+.gallery img{
+    padding: 8px;
+}
+.ipadtext4{
+    position: absolute;
+    top: 303%;
+    left: 17%;
+    text-align: center;
+    color: black;
+}
+.ipad4{
+    font-size: 19px;
+}
+.lovable4{
+    font-size: 20px;
+}
+.ipadtext5{
+    position: absolute;
+    top: 303%;
+    left: 67%;
+    text-align: center;
+    color: black;
+}
+.ipad5{
+    font-size: 19px;
+}
+.lovable5{
+    font-size: 20px;
+}
+.love5{
+    font-size: 20px;
+    color: grey;
+}
+.ipadtext6{
+    position: absolute;
+    top: 403%;
+    left: 17%;
+    text-align: center;
+    color: black;
+}
+.ipad6{
+    font-size: 19px;
+}
+.lovable6{
+    font-size: 20px;
+}
+.love6{
+    font-size: 20px;
+    color: #F75210;
+}
+.ipadtext7{
+    position: absolute;
+    top: 403%;
+    left: 67%;
+    text-align: center;
+    color: white;
+}
+.ipad7{
+    font-size: 19px;
+}
+.lovable7{
+    font-size: 20px;
+}
+.love7{
+    font-size: 20px;
+    color: #F75210;
+}
+.ipadtext8{
+    position: absolute;
+    top: 493%;
+    left: 17%;
+    text-align: center;
+    color: black;
+}
+.ipad8{
+    font-size: 19px;
+}
+.lovable8{
+    font-size: 20px;
+}
+.ipadtext9{
+    position: absolute;
+    top: 493%;
+    left: 67%;
+    text-align: center;
+    color: black;
+}
+.ipad9{
+    font-size: 19px;
+}
+.lovable9{
+    font-size: 20px;
+}
+footer{
+    background-color: #EAEAE9;
+    color: #585858;
+}
+.text1{
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 12px;
+}
+#container{
+    width:950px;
+    margin: 0 auto;
+    font-size: 12px;
+    background-color: #EAEAE9;
+}
+.column1, .column2, .column3, .column4, .column5{
+    width: 190px;
+    float: left;
+}
+.more, .copy{
+    float: left;
+}
+.suul{
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 12px;
+}
